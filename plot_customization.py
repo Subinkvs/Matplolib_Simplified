@@ -17,6 +17,7 @@ line_style = dict(marker='o',
 
 plt.plot(x, y1, **line_style)
 
+
 plt.plot(x, y2, **line_style) 
 
 plt.plot(x, y3,  **line_style)
